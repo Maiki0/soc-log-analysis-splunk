@@ -15,7 +15,8 @@ Detect suspicious login attempts using log analysis
 ## 📊 Results
 - Detected possible brute force attack
 - Identified suspicious IP address
-  <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/93bc93e7-3320-47c4-90af-654f98b8804e" />
+
+## 📸 Screenshots
 
 
 ## 📁 Files
